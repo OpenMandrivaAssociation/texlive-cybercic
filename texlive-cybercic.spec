@@ -1,6 +1,6 @@
 Name:		texlive-cybercic
 Version:	37659
-Release:	1
+Release:	2
 Summary:	"Controls in Contents" for the cyber package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cybercic
