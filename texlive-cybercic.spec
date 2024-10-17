@@ -3,7 +3,7 @@ Version:	37659
 Release:	2
 Summary:	"Controls in Contents" for the cyber package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cybercic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cybercic
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cybercic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cybercic.doc.r%{version}.tar.xz
